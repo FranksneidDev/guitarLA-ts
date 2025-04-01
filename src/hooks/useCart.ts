@@ -1,6 +1,7 @@
 import {useEffect, useMemo, useState} from "react";
-import {db} from "../data/db.ts";
-import type {CartItem, Guitar} from "../types/types.ts";
+
+import type {CartItem, Guitar} from "../types/types";
+import {db} from "../data/db";
 
 
 export function useCart()  {

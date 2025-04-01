@@ -1,4 +1,4 @@
-import type {Guitar} from "../types/types.ts";
+import type {Guitar} from "../types/types";
 
 
 export type GuitarProps = {

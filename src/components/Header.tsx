@@ -1,4 +1,4 @@
-import type {CartItem, Guitar} from "../types/types.ts";
+import type {CartItem, Guitar} from "../types/types";
 
 type HeaderProps = {
     cart: CartItem[];
