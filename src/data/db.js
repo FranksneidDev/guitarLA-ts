@@ -1,6 +1,4 @@
-import {Guitar} from "../types/types";
-
-export const db : Guitar[] = [
+export const db = [
     {
         id: 1,
         name: 'Lukather',
@@ -85,4 +83,4 @@ export const db : Guitar[] = [
         description: 'Morbi ornare augue nisl, vel elementum dui mollis vel. Curabitur non ex id eros fermentum hendrerit.',
         price: 379,
     },
-]
+];
